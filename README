@@ -22,8 +22,8 @@ DEPENDENCIES
 This module requires these other modules and libraries:
         Chemistry::Mol      0.24
         Chemistry::Pattern  0.20
-        Text::Balanced'     0
-        Test::Simple'       0
+        Text::Balanced      0
+        Test::More          0
 
 COPYRIGHT AND LICENSE
 
